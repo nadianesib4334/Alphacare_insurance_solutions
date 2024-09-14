@@ -1,1 +1,2 @@
 # Alphacare_insurance_solutions
+Given an an insurance and marketing company who wants to enhance its marketing strategy by asssesing the historical data of policyholders or(insurance buyers) in order to attract more customers, so as market data analyst role in the data analyst team i am requires to bring insightful information that will help the new strategy to be developed or additional insight to add to the previous that the team will get.
